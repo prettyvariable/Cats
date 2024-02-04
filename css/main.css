@@ -69,8 +69,7 @@ fieldset {
   margin-bottom: 30px;
   padding: 40px;
   gap: 10px;
-  display: inline-block;
-  width: 50%;
+	box-shadow:0 0 10px #999;
 
 }
 
