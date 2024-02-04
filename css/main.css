@@ -69,7 +69,7 @@ fieldset {
   margin-bottom: 30px;
   padding: 40px;
   gap: 10px;
-	box-shadow:0 0 10px #999;
+	
 
 }
 
@@ -78,50 +78,7 @@ legend {
 }
 
 
-  input {
-    margin-right: 5px;
-    vertical-align: middle;
-  }
   
-  h1, h2, h3 {
-    color: blue;
-  }
-  
-  section {
-    margin-bottom: 20px;
-  }
-  
-  a {
-    color: #007BFF;
-    text-decoration: none;
-  
-    &:hover {
-      text-decoration: underline;
-    }
-  }
-  
-  img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 5px;
-  }
-  
-  ul, ol {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-  }
-  
-  fieldset {
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    margin-bottom: 15px;
-    padding: 15px;
-  }
-  
-  legend {
-    font-weight: bold;
-  }
   
   label {
     display: block;
@@ -154,13 +111,6 @@ legend {
     }
   }
   
-  footer {
-    text-align: center;
-    margin-top: 20px;
-    padding: 10px;
-    background-color: #333;
-    color: #fff;
-  }
 
 
 footer {
